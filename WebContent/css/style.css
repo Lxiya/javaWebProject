@@ -1,0 +1,63 @@
+.content {
+    margin: 100px auto;
+    max-width: 600px;
+}
+
+table thead tr th {
+    text-align: center;
+}
+
+table tbody tr td {
+    text-align: center;
+}
+
+a {
+    cursor: pointer;
+}
+
+.dropdown-menu {
+    min-width: 100px;
+}
+
+.dropdown-menu li {
+    text-align: center;
+}
+
+.modal-header {
+    background: #65CEA7;
+    color: #fff;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    border: none;
+}
+
+
+/* login page */
+
+.login-content h1 {
+    text-align: center;
+    margin-bottom: 15px;
+    letter-spacing: 5px;
+}
+
+
+/* student page */
+
+.user-dropdown li {
+    padding: 10px;
+}
+
+.user-dropdown li a span {
+    margin-right: 10px;
+}
+
+.student-control li {
+    cursor: pointer;
+}
+
+
+/* admin page */
+
+.add-adminDusty {
+    margin-bottom: 15px;
+}
